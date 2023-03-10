@@ -260,7 +260,7 @@ export const cryptocurrenciesById: Record<CryptoCurrencyId, CryptoCurrency> = {
     ticker: "AVAX",
     scheme: "avalanche_c_chain",
     color: "#E84142",
-    family: "ethereum",
+    family: "avalanche",
     units: [
       {
         name: "AVAX",
